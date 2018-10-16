@@ -11,8 +11,8 @@ Schule, sehen könnte was es Heute für ein Angebot gibt?
 
 ## Problemstellung
 
-..* Unpraktische Handhabung, die Specials auszuhängen
-..* Niemand weiß was es gibt
+* Unpraktische Handhabung, die Specials auszuhängen
+* Niemand weiß was es gibt
 
 ## Aufgabenstellung
 
@@ -21,5 +21,5 @@ schreiben. Das Plugin, in Java programmiert, soll die Daten vom Buffet bzw. von 
 annehmen und veröffentlichen.
 
 ## Nutzen 
-..* mehr verkaufte Mittagsmenüs
-..* alles auf einem Blick
+* mehr verkaufte Mittagsmenüs
+* alles auf einem Blick
